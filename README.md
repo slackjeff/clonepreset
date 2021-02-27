@@ -1,0 +1,2 @@
+# clonepreset
+My preset clone
